@@ -8,7 +8,7 @@ class Solution {
                 begin += 1
             }
         }
-
+        print(nums)
         return begin
     }
 }
